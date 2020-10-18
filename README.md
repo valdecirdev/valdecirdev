@@ -1,4 +1,4 @@
-<img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="iuricode - image">
+<img src="image.png" min-width="300px" max-width="300px" width="300px" align="right" alt="iuricode - image">
 
 <p align="left">
   👋 Olá, meu nome é Valdecir Junior e eu sou <strong>Desenvolvedor Web</strong> e apaixonado por tecnologia.<br>
