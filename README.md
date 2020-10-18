@@ -13,7 +13,7 @@ em mandar-me uma mensagem: ⤵️
 <a href="mailto:valdecir.junior@outlook.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-valdecir.junior@outlook.com-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft-outlook&logoColor=white&link=valdecir.junior@outlook.com" /></a>
   
-<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+<a href="https://www.linkedin.com/in/valdecirjunior" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Valdecir%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdecirjunior" /></a>
  
 </p>
