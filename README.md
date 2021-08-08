@@ -1,5 +1,3 @@
-<img src="image.png" min-width="150px" max-width="150px" width="150px" align="right" alt="iuricode - image">
-
 <p align="left">
   👋 Olá, meu nome é Valdecir Junior e eu sou <strong>Desenvolvedor Web</strong> e apaixonado por tecnologia.<br>
 </p>
@@ -17,3 +15,9 @@ em mandar-me uma mensagem: ⤵️
 <img src="https://img.shields.io/badge/-Valdecir%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdecirjunior" /></a>
  
 </p>
+
+<div>
+  <a href="https://github.com/JonathanSampaio">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=valdecirdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdecirdev&layout=compact&langs_count=7&theme=dark"/>
+</div>
