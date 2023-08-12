@@ -16,9 +16,9 @@ em mandar-me uma mensagem: ⤵️
  
 </p>
 
-<div>
+<!--<div>
   <a href="https://github.com/valdecirdev">
-  <!--<img height="130px" src="https://github-readme-stats.vercel.app/api?username=valdecirdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=valdecirdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdecirdev&layout=compact&langs_count=4&theme=dark"/>
   </a>
-</div>
+</div>-->
