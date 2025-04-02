@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-💌 Caso você queira realizar um projeto comigo (ou jogar conversa fora), não hesite
+💌 Caso você queira realizar um projeto comigo, não hesite
 em mandar-me uma mensagem: ⤵️
 </p>
 
